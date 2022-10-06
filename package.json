@@ -1,5 +1,5 @@
 {
-  "name": "swagger-typescript-api",
+  "name": "swagger-typescript-api-ts-patch",
   "version": "10.0.2",
   "description": "Generate typescript/javascript api from swagger schema",
   "scripts": {
